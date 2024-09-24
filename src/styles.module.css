@@ -1,0 +1,70 @@
+.Main{
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+    /* justify-content: center;
+    align-items: center; */
+}
+
+.picture{
+    height:40vh;
+    width: 20%;
+    margin-top: 50px;
+    margin-left: 45px;
+}
+
+.address{
+    height: 50vh;
+    width: 15%;
+    margin-top: 50px;
+}
+
+.services{
+    height: 50vh;
+    width: 20%;
+    margin-top: 50px;
+
+}
+
+.touch{
+    height: 50vh;
+    width: 20%;
+    margin-top: 50px;
+
+}
+
+.para1, .para2, .para3{
+    margin: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.para1 b, .para2 b, .para3 b{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.p1, .p2, .p3{
+    margin: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.p1 b, .p2 b, .p3 b{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.pa1, .pa2{
+    margin: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.rights{
+    height: 15vh;
+    width: 30%;
+    
+}
